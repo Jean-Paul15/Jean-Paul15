@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Jean-Paul%20ADOGLI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20IA%20%26%20Big%20Data&descSize=22&descAlignY=60&animation=fadeIn" alt="Jean-Paul ADOGLI, ingénieur IA et Big Data" width="100%"/>
-
-<a href="https://github.com/Jean-Paul15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Je+construis+des+syst%C3%A8mes+qui+vont+de+la+donn%C3%A9e+%C3%A0+la+d%C3%A9cision;Pipelines+Kafka+%2B+Spark%2C+mod%C3%A8les+expos%C3%A9s+par+API;Agents+LLM%2C+RAG+et+supervision+Prometheus+%2B+Grafana" alt="Animation de présentation" />
-</a>
+<img src="assets/banner.svg" alt="Jean-Paul ADOGLI, ingénieur IA et Big Data" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/jean-paul-adogli-7203112b9"><img src="https://img.shields.io/badge/LinkedIn-Jean--Paul%20ADOGLI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -156,7 +152,7 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,jupyter&perline=6" alt="Python, TensorFlow, scikit-learn, pandas, NumPy, Jupyter"/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Qdrant%20%C2%B7%20ChromaDB-DC244C?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Qdrant%20%C2%B7%20ChromaDB-DC244C?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
 
 **Big data et backend**
 
@@ -166,9 +162,11 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 <img src="https://skillicons.dev/icons?i=docker,aws,grafana,prometheus,nginx,linux,git,github,githubactions&perline=9" alt="Docker, AWS, Grafana, Prometheus, Nginx, Linux, Git, GitHub, GitHub Actions"/>
 
-**Web et mobile**
+**Développement web et mobile**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs&perline=7" alt="Next.js, React, TypeScript, Tailwind, Flutter, Dart, Node.js"/>
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Analyse et visualisation**
 
@@ -215,5 +213,5 @@ Je construis **[Steko](https://steko.app)**, une application mobile de pilotage 
 Le plus simple : [LinkedIn](https://www.linkedin.com/in/jean-paul-adogli-7203112b9) ou par [e-mail](mailto:adoglijeanpaul@gmail.com).
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" width="100%"/>
+  <img src="assets/footer.svg" alt="" width="100%"/>
 </div>
