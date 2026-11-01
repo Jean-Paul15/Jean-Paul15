@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Jean-Paul%20ADOGLI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20IA%20%26%20Big%20Data&descSize=22&descAlignY=60&animation=fadeIn" alt="Jean-Paul ADOGLI, ingénieur IA et Big Data" width="100%"/>
 
 <a href="https://github.com/Jean-Paul15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Je+construis+des+syst%C3%A8mes+qui+vont+de+la+donn%C3%A9e+%C3%A0+la+d%C3%A9cision;Pipelines+Kafka+%2B+Spark%2C+mod%C3%A8les+expos%C3%A9s+par+API;Agents+LLM%2C+RAG+et+supervision+Prometheus+%2B+Grafana;Major+de+promotion+%C2%B7+Top+10+hackathon+national;Lom%C3%A9%2C+Togo" alt="Animation de présentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Je+construis+des+syst%C3%A8mes+qui+vont+de+la+donn%C3%A9e+%C3%A0+la+d%C3%A9cision;Pipelines+Kafka+%2B+Spark%2C+mod%C3%A8les+expos%C3%A9s+par+API;Agents+LLM%2C+RAG+et+supervision+Prometheus+%2B+Grafana" alt="Animation de présentation" />
 </a>
 
 <p>
@@ -18,26 +18,6 @@
 ## 👋 En bref
 
 Passionné par la donnée depuis la deuxième année de licence, je construis des systèmes qui vont **de la collecte à la décision** : pipelines Kafka et Spark, modèles exposés par API, agents LLM avec RAG, le tout supervisé pour qu'on comprenne leur état d'un coup d'œil. J'aime les problèmes concrets qui doivent tenir en conditions réelles, de la fraude au crédit, du recrutement à l'industrie.
-
-<table>
-<tr>
-<td width="50%">
-
-🎓 **Master Big Data, cycle ingénieur**, UCAO-UUT, Lomé
-🏆 **Major de promotion** en licence IA et Big Data : 16,34 sur 20, mention Très Bien, Prix d'Excellence Académique
-🥇 **Top 10 du hackathon national** CIF / DigiCoop-WA+ 2026, en chef d'équipe
-
-</td>
-<td width="50%">
-
-💼 **Lead Developer** chez Archer Group, agence de branding
-🛠️ **Développeur freelance** web et mobile, Afrique et international
-☁️ **AWS Solutions Architect (SAA-C03)** en préparation
-📜 Certification **Data Science Application**, WorldQuant University
-
-</td>
-</tr>
-</table>
 
 ## 🧭 De la donnée brute à la décision
 
@@ -75,8 +55,7 @@ Des milliers d'offres d'emploi éparpillées sur le web, des CV à rapprocher : 
 <td width="50%" valign="top">
 
 ### 🤝 [SOLIDA](https://github.com/Jean-Paul15/SOLIDA)
-Noter un emprunteur qui n'a presque aucun papier. Un score fondé sur la trajectoire d'épargne, une couche solidaire pour le crédit de groupe, une décision proposée sous contrôle humain et consignée dans un journal infalsifiable. **Top 10 du hackathon national, en chef d'équipe.**
-
+Noter un emprunteur qui n'a presque aucun papier. Un score fondé sur la trajectoire d'épargne, une couche solidaire pour le crédit de groupe, une décision proposée sous contrôle humain et consignée dans un journal infalsifiable.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
@@ -191,12 +170,10 @@ Qui a contaminé qui, où, et quel hôpital a fini par en payer le prix ? Les ch
 
 - 🚧 Je construis **[Steko](https://steko.app)**, une application mobile de pilotage de vie dotée d'un agent d'IA : Flutter, Supabase et un moteur d'agent en Edge Functions. En test fermé sur Google Play.
 - 🧪 Je pousse mes pipelines vers la **supervision et l'évaluation des réponses d'IA**, parce qu'une synthèse n'est utile que si elle est juste.
-- 🎯 Je cherche un **stage ou un premier poste d'ingénieur data et IA**, idéalement dans un environnement qui mêle données industrielles, temps réel et IA générative.
 
 ## 📬 Me contacter
 
-Le plus simple : [LinkedIn](https://www.linkedin.com/in/jean-paul-adogli-7203112b9) ou par [e-mail](mailto:adoglijeanpaul@gmail.com). Français natif, anglais technique. Basé à Lomé, au Togo, ouvert au travail à distance.
-
+Le plus simple : [LinkedIn](https://www.linkedin.com/in/jean-paul-adogli-7203112b9) ou par [e-mail](mailto:adoglijeanpaul@gmail.com).
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" width="100%"/>
 </div>
