@@ -156,7 +156,7 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,jupyter&perline=6" alt="Python, TensorFlow, scikit-learn, pandas, NumPy, Jupyter"/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Qdrant%20%C2%B7%20ChromaDB-DC244C?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Qdrant%20%C2%B7%20ChromaDB-DC244C?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Big data et backend**
 
