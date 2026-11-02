@@ -175,9 +175,10 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 </div>
 
-## Certification
+## Certifications
 
-[Data Science Application, WorldQuant University (Credly)](https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b)
+- [Data Science Application, WorldQuant University (Credly)](https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b)
+- [Data Science Modeling, WorldQuant University (Credly)](https://www.credly.com/badges/58558de1-639d-4dad-9934-7f457f8aaf22) : régression et classification supervisées, régularisation Ridge et Lasso, prévision de séries temporelles, sur quatre projets pratiques.
 
 ## Activité
 
