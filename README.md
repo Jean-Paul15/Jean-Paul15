@@ -187,7 +187,7 @@ Le cycle complet de la data science sur quatre projets pratiques (CSV, SQLite, M
 Préparation à l'examen AWS Certified Solutions Architect Associate : 43 heures de formation, 425 leçons, labs dans la console AWS, projets dans un compte AWS et 130 questions de révision, par un ancien architecte d'Amazon Web Services. Au programme, le Well-Architected Framework, IAM, EC2, le réseau, le stockage, les bases de données, l'analytique et les services d'IA, pour concevoir des architectures sécurisées, résilientes, performantes et maîtrisées en coût.
 
 **[Data Science et Machine Learning avec Python](https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/)** · Udemy, décembre 2024  
-Formation de 44,5 heures et 188 leçons, conçue avec Jose Portilla de Pierian Training : NumPy et Pandas pour manipuler des données réelles, visualisation avec Matplotlib et Seaborn, puis modèles de régression et de classification avec Scikit-Learn (régression linéaire et logistique, KNN, SVM, arbres de décision, Random Forests), préparation des variables, validation croisée et Grid Search. Des études de cas réels, à moitié théorie et à moitié code.
+Formation de 44,5 heures et 188 leçons, conçue avec Jose Portilla de Pierian Training : NumPy et Pandas pour manipuler des données réelles, visualisation avec Matplotlib et Seaborn, puis modèles de régression et de classification avec Scikit-Learn (régression linéaire et logistique, KNN, SVM, arbres de décision, Random Forests, Boosting avec Adaboost et Gradient Boosting), préparation des variables, validation croisée et Grid Search. Des études de cas réels, à moitié théorie et à moitié code.
 
 ## Activité
 
