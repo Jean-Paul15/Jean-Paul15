@@ -177,17 +177,36 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 ## Certifications
 
-**[Data Science Application](https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b)** · WorldQuant University, août 2026  
-Programme appliqué de huit projets en data science et machine learning : Random Forest et Gradient Boosting sur données déséquilibrées, segmentation K-means avec tableaux de bord Dash interactifs, tests A/B par chi-deux, modélisation de volatilité GARCH(1,1) en développement piloté par les tests. Des pipelines reproductibles, prêts à être déployés, et des résultats traduits en décisions métier.
-
-**[Data Science Modeling](https://www.credly.com/badges/58558de1-639d-4dad-9934-7f457f8aaf22)** · WorldQuant University, août 2026  
-Le cycle complet de la data science sur quatre projets pratiques (CSV, SQLite, MongoDB) : nettoyage et exploration de données tabulaires, analyse de corrélation, régression et classification supervisées avec régularisation Ridge et Lasso, modèles AR et ARMA, prévision de séries temporelles.
-
-**[AWS Solutions Architect Associate SAA-C03](https://www.udemy.com/certificate/UC-5bca1f5c-cedd-4935-874a-c29a7696e51d/)** · Udemy, septembre 2026  
-Préparation à l'examen AWS Certified Solutions Architect Associate : 43 heures de formation, 425 leçons, labs dans la console AWS, projets dans un compte AWS et 130 questions de révision, par un ancien architecte d'Amazon Web Services. Au programme, le Well-Architected Framework, IAM, EC2, le réseau, le stockage, les bases de données, l'analytique et les services d'IA, pour concevoir des architectures sécurisées, résilientes, performantes et maîtrisées en coût.
-
-**[Data Science et Machine Learning avec Python](https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/)** · Udemy, décembre 2024  
-Formation de 44,5 heures et 188 leçons, conçue avec Jose Portilla de Pierian Training : NumPy et Pandas pour manipuler des données réelles, visualisation avec Matplotlib et Seaborn, puis modèles de régression et de classification avec Scikit-Learn (régression linéaire et logistique, KNN, SVM, arbres de décision, Random Forests, Boosting avec Adaboost et Gradient Boosting), préparation des variables, validation croisée et Grid Search. Des études de cas réels, à moitié théorie et à moitié code.
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/%C3%89metteur-WorldQuant%20University-0B2A4A?style=flat-square" alt="Émetteur : WorldQuant University"/> <img src="https://img.shields.io/badge/Date-ao%C3%BBt%202026-6B7280?style=flat-square" alt="Date : août 2026"/>
+<h4><a href="https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b">Data Science Application</a></h4>
+<p>Huit projets appliqués en data science et machine learning : Random Forest et Gradient Boosting sur données déséquilibrées, segmentation K-means avec tableaux de bord Dash, tests A/B par chi-deux, volatilité GARCH(1,1) en développement piloté par les tests. Des pipelines reproductibles, prêts à être déployés, et des résultats traduits en décisions métier.</p>
+<sub>Badge vérifiable sur Credly</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/%C3%89metteur-WorldQuant%20University-0B2A4A?style=flat-square" alt="Émetteur : WorldQuant University"/> <img src="https://img.shields.io/badge/Date-ao%C3%BBt%202026-6B7280?style=flat-square" alt="Date : août 2026"/>
+<h4><a href="https://www.credly.com/badges/58558de1-639d-4dad-9934-7f457f8aaf22">Data Science Modeling</a></h4>
+<p>Le cycle complet de la data science sur quatre projets pratiques (CSV, SQLite, MongoDB) : nettoyage et exploration de données tabulaires, corrélation, régression et classification supervisées avec régularisation Ridge et Lasso, modèles AR et ARMA, prévision de séries temporelles.</p>
+<sub>Badge vérifiable sur Credly</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/%C3%89metteur-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Émetteur : Udemy"/> <img src="https://img.shields.io/badge/Date-septembre%202026-6B7280?style=flat-square" alt="Date : septembre 2026"/>
+<h4><a href="https://www.udemy.com/certificate/UC-5bca1f5c-cedd-4935-874a-c29a7696e51d/">AWS Solutions Architect Associate SAA-C03</a></h4>
+<p>Préparation à l'examen AWS Certified Solutions Architect Associate : 43 heures, 425 leçons, labs dans la console AWS, projets dans un compte AWS et 130 questions de révision, par un ancien architecte d'Amazon Web Services. Well-Architected Framework, IAM, EC2, réseau, stockage, bases de données, analytique et IA, pour concevoir des architectures sécurisées, résilientes, performantes et maîtrisées en coût.</p>
+<sub>Certificat de fin de formation</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/%C3%89metteur-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Émetteur : Udemy"/> <img src="https://img.shields.io/badge/Date-d%C3%A9cembre%202024-6B7280?style=flat-square" alt="Date : décembre 2024"/>
+<h4><a href="https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/">Data Science et Machine Learning avec Python</a></h4>
+<p>44,5 heures et 188 leçons, conçues avec Jose Portilla de Pierian Training : NumPy et Pandas pour manipuler des données réelles, visualisation avec Matplotlib et Seaborn, puis régression et classification avec Scikit-Learn (régression linéaire et logistique, KNN, SVM, arbres de décision, Random Forests, Boosting avec Adaboost et Gradient Boosting), préparation des variables, validation croisée et Grid Search.</p>
+<sub>Certificat de fin de formation</sub>
+</td>
+</tr>
+</table>
 
 ## Activité
 
