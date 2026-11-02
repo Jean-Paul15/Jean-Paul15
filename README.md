@@ -177,10 +177,17 @@ Pour un emprunteur sans papiers, SOLIDA propose une décision avec les facteurs 
 
 ## Certifications
 
-- [Data Science Application, WorldQuant University (Credly)](https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b)
-- [Data Science Modeling, WorldQuant University (Credly)](https://www.credly.com/badges/58558de1-639d-4dad-9934-7f457f8aaf22) : régression et classification supervisées, régularisation Ridge et Lasso, prévision de séries temporelles, sur quatre projets pratiques.
-- [Data Science et Machine Learning avec Python : MasterClass, Udemy](https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/) : certificat de fin de formation, décembre 2024.
-- [AWS Solutions Architect Associate SAA-C03 2026, Udemy](https://www.udemy.com/certificate/UC-5bca1f5c-cedd-4935-874a-c29a7696e51d/) : certificat de fin de formation de préparation à l'examen, septembre 2026.
+**[Data Science Application](https://www.credly.com/badges/5887776b-4adc-4db7-bb95-f9b74d69e69b)** · WorldQuant University, août 2026  
+Programme appliqué de huit projets en data science et machine learning : Random Forest et Gradient Boosting sur données déséquilibrées, segmentation K-means avec tableaux de bord Dash interactifs, tests A/B par chi-deux, modélisation de volatilité GARCH(1,1) en développement piloté par les tests. Des pipelines reproductibles, prêts à être déployés, et des résultats traduits en décisions métier.
+
+**[Data Science Modeling](https://www.credly.com/badges/58558de1-639d-4dad-9934-7f457f8aaf22)** · WorldQuant University, août 2026  
+Le cycle complet de la data science sur quatre projets pratiques (CSV, SQLite, MongoDB) : nettoyage et exploration de données tabulaires, analyse de corrélation, régression et classification supervisées avec régularisation Ridge et Lasso, modèles AR et ARMA, prévision de séries temporelles.
+
+**[AWS Solutions Architect Associate SAA-C03](https://www.udemy.com/certificate/UC-5bca1f5c-cedd-4935-874a-c29a7696e51d/)** · Udemy, septembre 2026  
+Formation de préparation à l'examen AWS : conception d'architectures sécurisées, résilientes, performantes et maîtrisées en coût.
+
+**[Data Science et Machine Learning avec Python](https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/)** · Udemy, décembre 2024  
+Formation de bout en bout en data science et machine learning avec Python.
 
 ## Activité
 
