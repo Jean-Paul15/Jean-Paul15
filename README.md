@@ -184,7 +184,7 @@ Programme appliqué de huit projets en data science et machine learning : Random
 Le cycle complet de la data science sur quatre projets pratiques (CSV, SQLite, MongoDB) : nettoyage et exploration de données tabulaires, analyse de corrélation, régression et classification supervisées avec régularisation Ridge et Lasso, modèles AR et ARMA, prévision de séries temporelles.
 
 **[AWS Solutions Architect Associate SAA-C03](https://www.udemy.com/certificate/UC-5bca1f5c-cedd-4935-874a-c29a7696e51d/)** · Udemy, septembre 2026  
-Formation de préparation à l'examen AWS : conception d'architectures sécurisées, résilientes, performantes et maîtrisées en coût.
+Préparation à l'examen AWS Certified Solutions Architect Associate : 43 heures de formation, 425 leçons, labs dans la console AWS, projets dans un compte AWS et 130 questions de révision, par un ancien architecte d'Amazon Web Services. Au programme, le Well-Architected Framework, IAM, EC2, le réseau, le stockage, les bases de données, l'analytique et les services d'IA, pour concevoir des architectures sécurisées, résilientes, performantes et maîtrisées en coût.
 
 **[Data Science et Machine Learning avec Python](https://www.udemy.com/certificate/UC-c7343e22-1493-41be-a60f-bdba25c75ac3/)** · Udemy, décembre 2024  
 Formation de bout en bout en data science et machine learning avec Python.
