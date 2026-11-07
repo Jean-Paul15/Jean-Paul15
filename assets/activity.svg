@@ -16,7 +16,7 @@
 <rect x="1" y="1" width="998" height="397" rx="14" fill="var(--fond)" stroke="var(--bord)"/>
 <text x="44" y="46" class="titre">Activité des 12 derniers mois</text>
 <text x="44" y="68" class="sous">Contributions publiques, mises à jour chaque jour</text>
-<text x="44" y="114" class="valeur">2 414</text>
+<text x="44" y="114" class="valeur">2 420</text>
 <text x="44" y="134" class="legende">Contributions</text>
 <text x="226" y="114" class="valeur">317</text>
 <text x="226" y="134" class="legende">Commits</text>
@@ -395,7 +395,8 @@
 <rect x="928" y="184" width="14" height="14" rx="3" class="l1"><title>2026-11-03 : 10</title></rect>
 <rect x="928" y="201" width="14" height="14" rx="3" class="l0"><title>2026-11-04 : 0</title></rect>
 <rect x="928" y="218" width="14" height="14" rx="3" class="l1"><title>2026-11-05 : 1</title></rect>
-<rect x="928" y="235" width="14" height="14" rx="3" class="l1"><title>2026-11-06 : 2</title></rect>
+<rect x="928" y="235" width="14" height="14" rx="3" class="l1"><title>2026-11-06 : 8</title></rect>
+<rect x="928" y="252" width="14" height="14" rx="3" class="l0"><title>2026-11-07 : 0</title></rect>
 <text x="44" y="303" class="titre" style="font-size:16px">Langages</text>
 <rect x="44.0" y="317" width="339.0" height="10" fill="#3572A5"/>
 <rect x="383.0" y="317" width="328.3" height="10" fill="#00B4AB"/>
