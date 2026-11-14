@@ -16,7 +16,7 @@
 <rect x="1" y="1" width="998" height="397" rx="14" fill="var(--fond)" stroke="var(--bord)"/>
 <text x="44" y="46" class="titre">Activité des 12 derniers mois</text>
 <text x="44" y="68" class="sous">Contributions publiques, mises à jour chaque jour</text>
-<text x="44" y="114" class="valeur">2 455</text>
+<text x="44" y="114" class="valeur">2 479</text>
 <text x="44" y="134" class="legende">Contributions</text>
 <text x="226" y="114" class="valeur">318</text>
 <text x="226" y="134" class="legende">Commits</text>
@@ -389,13 +389,14 @@
 <rect x="911" y="201" width="14" height="14" rx="3" class="l0"><title>2026-11-04 : 0</title></rect>
 <rect x="911" y="218" width="14" height="14" rx="3" class="l1"><title>2026-11-05 : 1</title></rect>
 <rect x="911" y="235" width="14" height="14" rx="3" class="l1"><title>2026-11-06 : 8</title></rect>
-<rect x="911" y="252" width="14" height="14" rx="3" class="l0"><title>2026-11-07 : 0</title></rect>
-<rect x="928" y="150" width="14" height="14" rx="3" class="l0"><title>2026-11-08 : 0</title></rect>
-<rect x="928" y="167" width="14" height="14" rx="3" class="l0"><title>2026-11-09 : 0</title></rect>
+<rect x="911" y="252" width="14" height="14" rx="3" class="l1"><title>2026-11-07 : 12</title></rect>
+<rect x="928" y="150" width="14" height="14" rx="3" class="l1"><title>2026-11-08 : 4</title></rect>
+<rect x="928" y="167" width="14" height="14" rx="3" class="l1"><title>2026-11-09 : 2</title></rect>
 <rect x="928" y="184" width="14" height="14" rx="3" class="l1"><title>2026-11-10 : 1</title></rect>
 <rect x="928" y="201" width="14" height="14" rx="3" class="l2"><title>2026-11-11 : 34</title></rect>
 <rect x="928" y="218" width="14" height="14" rx="3" class="l0"><title>2026-11-12 : 0</title></rect>
-<rect x="928" y="235" width="14" height="14" rx="3" class="l0"><title>2026-11-13 : 0</title></rect>
+<rect x="928" y="235" width="14" height="14" rx="3" class="l1"><title>2026-11-13 : 6</title></rect>
+<rect x="928" y="252" width="14" height="14" rx="3" class="l0"><title>2026-11-14 : 0</title></rect>
 <text x="44" y="303" class="titre" style="font-size:16px">Langages</text>
 <rect x="44.0" y="317" width="337.7" height="10" fill="#3572A5"/>
 <rect x="381.7" y="317" width="327.1" height="10" fill="#00B4AB"/>
